@@ -1,6 +1,6 @@
 #About the project
 
-PikPuj is a simulation of one penny auction web app. It is a simple, server-less, front-end app based on the react/redux.
+this is a simulation of one penny auction web app. It is a simple, server-less, front-end app based on the react/redux.
 It's a study of react / redux and additional libaries.
  
 ### Demo
